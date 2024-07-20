@@ -1,9 +1,8 @@
 {
-    "team":
-    [
+    "team": [
         {
-            "title": "CEO and Founder",
-            "name": "John Smith",
+            "title": "Owner",
+            "name": "Shakhor Smith",
             "description": "10+ years of experience in digital marketing. Expertise in SEO, PPC, and content strategy",
             "profile": "/team/c1.png",
             "link": "/"
@@ -22,10 +21,8 @@
             "profile": "/team/c3.png",
             "link": "/"
         }
-
     ],
-    "process":
-    [
+    "process": [
         {
             "label": "Consultation",
             "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
