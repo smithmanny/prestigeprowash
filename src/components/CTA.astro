@@ -1,0 +1,32 @@
+---
+import Container from "./Container.astro";
+---
+
+<Container>
+  <div class="flex-row items-center my-6 p-14 bg-zinc-100 rounded-[45px]">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+      <div class="justify-start items-center gap-[275px] flex">
+        <div
+          class="flex-col justify-start items-start gap-[26px] inline-flex text-black"
+        >
+          <div class="text-3xl font-medium">Follow us on Social Media</div>
+          <div class="text-lg font-normal">
+            Follow us on social media and keep up with our monthly specials
+          </div>
+          <a
+            href="https://www.instagram.com/atl_prestigeprowash"
+            target="_blank"
+            class="px-[35px] py-5 bg-zinc-900 hover:bg-white text-white hover:text-black border rounded-[14px] justify-start items-start gap-2.5 inline-flex"
+          >
+            <div class="text-center text-xl font-normal leading-7">
+              Follow us on IG
+            </div>
+          </a>
+        </div>
+      </div>
+      <div class="hidden md:grid justify-items-center -m-20">
+        <img src="/services/social_media.svg" width="50%" alt="cat" />
+      </div>
+    </div>
+  </div>
+</Container>
