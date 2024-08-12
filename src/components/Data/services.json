@@ -43,5 +43,14 @@
         "arrow": "./services/ag.svg",
         "link": "./",
         "image": "./services/detailing.svg"
+    },
+    {
+        "id": 5,
+        "name1": "Landscaping",
+        "name2": "Commercial/Residental landscaping",
+        "background": "h-[310px] p-12 bg-lime rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
+        "arrow": "./services/ag.svg",
+        "link": "./",
+        "image": "./services/detailing.svg"
     }
 ]
